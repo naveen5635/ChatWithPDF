@@ -1,5 +1,4 @@
-# ChatWithPDF 🚀
-
+#ChatWithPDF 🚀
 This app is an LLM(Large Language Model)-powered chatbot built using: Streamlit, LangChain and OpenAI
 
 - [Streamlit](https://streamlit.io/)
